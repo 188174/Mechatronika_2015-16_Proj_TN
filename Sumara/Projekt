@@ -1,0 +1,6 @@
+Tytuł projektu: Detekcja ludzi i dzikich zwierząt na poboczu.
+Opis: System dający znać gdy w promieniu X m pojawi się człowiek lub dzikie zwierzę na drodze samochodu. 
+Fazy projektu:
+1. W pierwszej fazie projektu chciałbym skupić się na napisaniu algorytmu jakim będzie przetwarzany obraz.
+2. Kolejnym krokiem będzie napisanie programu w C++, który będzie przetwarzał dostarczony obraz z kamery i zwracał sygnał jeśli napotka „przeszkodę”
+3. Próba wykonania urządzenia gotowego do podłączenia do samochodu.
